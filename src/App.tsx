@@ -25,6 +25,10 @@ export default function App() {
               </Text>
               <br/>
               <Text size="md" weight={500}>
+                  Opencv - https://opencv.org/ - инструмент для распознавания объектов
+              </Text>
+              <br/>
+              <Text size="md" weight={500}>
                   Цифровая душа - связывает предмет физического мира с его цифровым представлением. С его историей.
               </Text>
               <br/>
